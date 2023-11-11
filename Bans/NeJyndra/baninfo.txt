@@ -1,4 +1,0 @@
-timeleft=3600;
-reason=skill issue;
-admin=console;
-pernament=false;
