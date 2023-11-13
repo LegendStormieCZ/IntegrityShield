@@ -1,4 +1,0 @@
-time=1699891711;
-reason=Exploiting;
-admin="Console";
-pernament=true;
