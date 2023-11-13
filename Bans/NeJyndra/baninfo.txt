@@ -1,0 +1,4 @@
+time=1699887127;
+reason=Cheating;
+admin="NeJyndra";
+pernament=false;
