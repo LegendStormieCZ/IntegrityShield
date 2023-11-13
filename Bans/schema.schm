@@ -1,1 +1,6 @@
 %raw%/plr.Name/baninfo.txt
+
+time=nil;
+reason=nil;
+admin=nil;
+pernament=nil;
