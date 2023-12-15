@@ -1,0 +1,4 @@
+time=1703199727;
+reason=Exploiting;
+admin="NeJyndra";
+pernament=false;
